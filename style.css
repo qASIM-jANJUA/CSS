@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: bisque;
+}
+h1{
+    text-decoration: underline;
+color: rgb(229, 229, 126);
+background-color:black;
+text-align: center;
+text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+
+}
+p{
+    
+    padding-left: 5px;
+}
+.pl{
+    padding-left: 10px;
+}
+div{
+    font-size: 1.5em;
+    border: 1px solid black ;
+}
+Span{
+    font-size: 3em;
+
+}
+#ndiv{
+    font-size: 3rem;
+    border-style: 2px dotted ;
+    background-color:rgba(255, 99, 71, 0.5);
+}
+#scale{
+    border: 1px solid black;
+}
+#bgone{
+    border: 0;
+        background-image: url(pic.jpeg);
+        background-repeat:no-repeat ;
+        padding-bottom: 200px;
+        margin-bottom: 50px;
+
+}
